@@ -1,6 +1,6 @@
 # Robotics_lab_mini_project_Group19
 Project: Money Counter using Jetson Nano<br>
-Group no. 19<br>
+Group no. 19<br><br>
 Members:<br>
 64011334 Amitta Pacharapha<br>
 64011439 Kongpop Lohasirichai<br>
